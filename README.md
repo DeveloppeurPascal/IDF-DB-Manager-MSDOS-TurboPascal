@@ -1,39 +1,37 @@
-# Delphi-Projects-Template
+# IDF DB Manager - Turbo Pascal - MS-Dos - 1991
 
 [Cette page en français.](LISEZMOI.md)
 
-A git template for my Delphi (or others) projects.
+Database manager developed with [Turbo Vision](https://en.wikipedia.org/wiki/Turbo_Vision) under [Turbo Pascal](https://en.wikipedia.org/wiki/Turbo_Pascal) in 1991 and 1992.
 
-This template is distributed under MIT license. The AGPL license is for projects I create from this code repository template. Use the license you want if you use the template.
+The source codes provided are the latest version. You won't be able to recompile them unless you have a version of Turbo Pascal or Borland Pascal, since the Turbo Vision units used are not public.
 
-This code repository contains a project developed in Object Pascal language under Delphi. You don't know what Delphi is and where to download it ? You'll learn more [on this web site](https://delphi-resources.developpeur-pascal.fr/).
+The compiled 8-bit version of the program is supplied. It can be used under MS-Dos or early versions of Windows.
 
-## Install
+A more modern version of the program will one day be developed to open archives (old IDF format databases or tables still out there or at least on my hard disks).
 
-To download this project you better should use "git" command but you also can download a ZIP from [its GitHub repository](https://github.com/DeveloppeurPascal/XXXXXXXXXX).
+Check out [my other open source projects in Turbo Pascal](https://github.com/DeveloppeurPascal?tab=repositories&q=TurboPascal&type=&language=&sort=) if you're interested in software archeology.
 
-**Warning :** if the project has submodules dependencies they wont be in the ZIP file. You'll have to download them manually.
+## Talks and conferences
 
-## Dependencies
+### Twitch
 
-This project depends on :
+Follow my development streams of software, video games, mobile applications and websites on [my Twitch channel](https://www.twitch.tv/patrickpremartin) or as replays on [Serial Streameur](https://serialstreameur.fr) mostly in French.
 
-* project 1
-* project 2
+## License to use this code repository and its contents
 
-## How to ask a new feature, report a bug or a security issue ?
+This source code is distributed under the [AGPL 3.0 or later license](https://choosealicense.com/licenses/agpl-3.0/).
 
-If you want an answer from the project owner the best way to ask for a new feature or report a bug is to go to [the GitHub repository](https://github.com/DeveloppeurPascal/XXXXXXXXXX) and [open a new issue](https://github.com/DeveloppeurPascal/XXXXXXXXXX/issues).
+You are generally free to use the contents of this code repository anywhere, provided that:
+* you mention it in your projects
+* distribute the modifications made to the files supplied in this project under the AGPL license (leaving the original copyright notices (author, link to this repository, license) which must be supplemented by your own)
+* to distribute the source code of your creations under the AGPL license.
 
-If you found a security issue please don't report it publicly before a patch is available. Explain the case by [sending a private message to the author](https://developpeur-pascal.fr/nous-contacter.php).
+If this license doesn't suit your needs, you can purchase the right to use this project under the [Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/) or a dedicated commercial license ([contact the author](https://developpeur-pascal.fr/nous-contacter.php) to explain your needs).
 
-You also can fork the repository and contribute by submitting pull requests if you want to help. Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+These source codes are provided as is, without warranty of any kind.
 
-## Dual licensing model (only for my projects, not for this code repository template)
-
-This project is distributed under [AGPL 3.0 or later](https://choosealicense.com/licenses/agpl-3.0/) license.
-
-If you want to use it or a part of it in your projects but don't want to share the sources or don't want to distribute your project under the same license you can buy the right to use it under the [Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/) or a dedicated license ([contact the author](https://developpeur-pascal.fr/nous-contacter.php) to explain your needs).
+Certain elements included in this repository may be subject to third-party usage rights (images, sounds, etc.). They are not reusable in your projects unless otherwise stated.
 
 ## Support the project and its author
 
